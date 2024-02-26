@@ -17,8 +17,7 @@ import javax.persistence.TemporalType;
 @Entity
 @Table(name = "T_USER")
 public class User implements Serializable {
-
-
+	// changement 4twin3 bech njarbou byh
 	private static final long serialVersionUID = 1L;
 
 	@Id
